@@ -1,5 +1,5 @@
 # Shopping-cart-by-Node.js and Grunt.js
-e-book store by Kraken framework by Paypal
+e-book store by Paypal Kraken framework
 
 # *Home page
 <img src="/images/home.JPG">
