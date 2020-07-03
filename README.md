@@ -14,3 +14,7 @@ e-book store by Kraken framework by Paypal
 
 # *Paypal Payment Gateway Integration 
 <img src="/images/paypal.JPG">
+
+
+# *Book dashboard
+<img src="/images/book.JPG">
